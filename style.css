@@ -1,0 +1,29 @@
+.bg-img1 {
+
+    background-color: #ff0000;
+    
+    background-size: cover;
+    
+    background-image: url(img.png);
+    
+    }
+    
+    .bg-img2 {
+    
+    background-color: #1100ff;
+
+    background-size: cover;
+    
+    background-image: url(img.png);
+    
+    }
+    
+    .bg-img3 {
+    
+    background-color: #fbff00;
+    
+    background-size: cover;
+    
+    background-image: url(img.png);
+    
+    }
